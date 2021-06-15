@@ -1,5 +1,5 @@
 DOCKER=docker
-VERSION=v0.38.4
+VERSION=latest
 PROJECT=lockp111/metabase-clickhouse
 BUILD_TAG=$(DOCKER) build -t 
 
